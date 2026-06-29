@@ -1,4 +1,4 @@
-# DoAnCuoiKyAI
+# Đồ Án Cuối KỲ AI
 Nhóm 14 : 
 Thành viên :
 1. Lê Trọng Nghĩa - 24110286
