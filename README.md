@@ -50,5 +50,41 @@ Bài toán tìm đường đi trong mê cung (Maze Solving Problem) là một tr
 - Pygame
 - Thuật toán tìm kiếm trong AI
 
-## Ảnh động minh họa 
-<img width="824" height="441" alt="image" src="https://github.com/user-attachments/assets/40e1227e-7b0d-45f7-851a-3c71fbdfc675" />
+# Ảnh động minh họa 
+## BFS 
+<img width="400" height="214" alt="BFS" src="https://github.com/user-attachments/assets/34b20f3c-0cf1-4d29-b3fb-7c364df626d0" />
+
+## DFS 
+<img width="800" height="448" alt="DFS" src="https://github.com/user-attachments/assets/dac12c9c-5db5-4fe2-8e8b-381f141983bb" />
+
+## Greedy
+<img width="800" height="451" alt="Greedy" src="https://github.com/user-attachments/assets/eca86135-7045-4cfc-85a7-9620604a411f" />
+## AStart
+<img width="800" height="451" alt="AStar" src="https://github.com/user-attachments/assets/4d9ffd5e-327c-4c54-bb37-620cddcdde89" />
+
+## Steepest Assent 
+<img width="800" height="445" alt="Steepest Assent" src="https://github.com/user-attachments/assets/3a8ec2e0-20c5-408c-8ec1-2d00299f98de" />
+
+## Local Beam Search
+<img width="800" height="449" alt="Local beam" src="https://github.com/user-attachments/assets/b8ea5ab5-b193-4af9-b3ea-baa2450e2c02" />
+
+## Belief State 
+<img width="800" height="456" alt="Belief State" src="https://github.com/user-attachments/assets/368842f8-510d-4a55-ad28-5acdf1422445" />
+
+## Fog of war
+<img width="800" height="451" alt="fogofwar" src="https://github.com/user-attachments/assets/f5c327d0-c7cd-4591-8fd0-d8483644c818" />
+
+## Backtracking 
+<img width="800" height="451" alt="backtracking" src="https://github.com/user-attachments/assets/b488623f-4657-42e6-a6db-47dbb1571493" />
+
+## Foward Checking 
+<img width="800" height="452" alt="Forward Checking" src="https://github.com/user-attachments/assets/7aa23d2e-7e5b-40fe-9ec6-294dcdd4572b" />
+
+## Minimax 
+<img width="800" height="450" alt="Minimax" src="https://github.com/user-attachments/assets/cc38b279-98e8-4399-9ca9-829534300aa8" />
+
+## Alpha-Beta
+<img width="800" height="448" alt="AlphaBeta_Smart" src="https://github.com/user-attachments/assets/a4992722-7891-4e42-900a-40a22904abe2" />
+
+
+
